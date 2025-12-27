@@ -75,7 +75,6 @@
         <h3>My Arsenal</h3>
         <div class="pill-container">
             <span class="pill">Python</span>
-            <span class="pill">C++</span>
             <span class="pill">C</span>
             <span class="pill">HTML</span>
             <span class="pill">DSA</span>
