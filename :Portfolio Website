@@ -67,7 +67,7 @@
 <body>
 
     <div class="card">
-        <h1 class="profile-title">Muhammed Yasin D"</h1>
+        <h1 class="profile-title">Muhammed Yasin D</h1>
         <p class="subtitle">Computer Science @ College of Engineering Muttathara<br></p>
 
         <hr>
@@ -81,11 +81,11 @@
         </div>
 
         <h3>Interests</h3>
-        <p style="font-size: 0.9rem; color: #555;">Android App Development • Data Science • App Testing</p>
+        <p style="font-size: 0.9rem; color: #555;">App developing .App Testing</p>
 
     <section id="projects">
         <h2>Projects</h2>
-        <dl> <dt><strong>Currently I don't have any strong projects worth mentioning</strong></dt>
+        <dl> <dt><strong>Currently I don't have any strong projects</strong></dt>
             <br>
         </dl>
     </section>
