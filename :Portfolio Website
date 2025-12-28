@@ -81,7 +81,14 @@
         </div>
 
         <h3>Interests</h3>
-        <p style="font-size: 0.9rem; color: #555;">Android Dev • Data Science • App Testing</p>
+        <p style="font-size: 0.9rem; color: #555;">Android App Development • Data Science • App Testing</p>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <dl> <dt><strong>Currently I don't have any strong projects worth mentioning</strong></dt>
+            <br>
+        </dl>
+    </section>
 
         <a href="mailto:muhammedyasind175@gmail.com" class="contact-link">
              <div class="contact-btn">Email Me</div>
